@@ -49,4 +49,7 @@ pip install -r requirements.txt
 * Jupyter Lab is recommended for interactive development
 
 ## Extra:
-![Our runs in WandB](240 wandb runs.PNG)
+<p align="center">
+  <img src="240 wandb runs.png" alt="Our WandB runs" width="800"/>
+</p>
+
