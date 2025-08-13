@@ -47,9 +47,3 @@ pip install -r requirements.txt
 * Recommended Python version: **3.8+**
 * Use a virtual environment to avoid dependency conflicts
 * Jupyter Lab is recommended for interactive development
-
-## Extra:
-<p align="center">
-  <img src="240 wandb runs.png" alt="Our WandB runs" width="800"/>
-</p>
-
