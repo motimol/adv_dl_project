@@ -1,6 +1,6 @@
 # adv_dl_project
 
-Team M’s advanced deep learning project.
+Team M’s advanced deep learning project. Run on Linux.
 
 ##  Project Structure
 
